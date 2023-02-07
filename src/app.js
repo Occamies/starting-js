@@ -1,8 +1,7 @@
-// import Initialize from "./Initialize";
 import "../css/style.scss";
-import Weather from "./Weather";
-import Tyst from "./Tyst";
-import "../css/tystStyle.scss"
+
+
+
 
 
 
@@ -11,8 +10,8 @@ import "../css/tystStyle.scss"
 
 
 (function () {
+  new Miniopgave();
 
-  new Weather();
-  //new Tyst();
 
+  
 })();
